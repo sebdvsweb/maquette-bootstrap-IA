@@ -1,0 +1,71 @@
+IA Générative
+
+Accueil
+Fonctionnalités
+Projets
+FAQ
+
+
+L'IA change le monde
+Découvrez comment l'intelligence artificielle façonne notre avenir.
+
+Des innovations incroyables
+L'IA générative pour de nouvelles perspectives créatives.
+
+Robots intelligents
+La technologie de demain dans nos mains aujourd'hui.
+
+
+
+Rapide
+L'IA offre des résultats à la vitesse de la lumière, permettant des traitements et des analyses en un temps record.
+
+Efficace
+Générer du contenu ou des prédictions en quelques clics seulement, avec une efficacité inégalée dans de nombreux domaines.
+
+Créatif
+Laissez l'IA stimuler votre créativité et vous accompagner dans la production de nouvelles œuvres et idées innovantes.
+
+
+
+Projet 1 - Machine Learning
+Ce projet se concentre sur l'utilisation d'algorithmes d'apprentissage automatique pour traiter des quantités massives de données.
+
+Projet 2 - Génération d'images
+Ce projet permet de créer des images uniques à partir de simples descriptions textuelles.
+
+Projet 3 - Science des données
+Ce projet combine les outils de l'intelligence artificielle et de la science des données pour analyser de grandes quantités d'informations.
+
+
+
+Questions fréquentes
+
+Qu'est-ce que l'IA générative ?
+L'intelligence artificielle générative est un type d'IA qui peut produire des contenus nouveaux et uniques, tels que des textes, des images ou des vidéos.
+
+Comment fonctionne-t-elle ?
+L'IA générative s'appuie sur des modèles d'apprentissage, tels que les réseaux neuronaux, pour générer de nouveaux contenus à partir de données existantes.
+
+Où l'IA générative est-elle utilisée ?
+Elle est utilisée dans divers domaines comme la création de contenu, le design, la musique, le jeu vidéo, et même la médecine.
+
+
+
+L'IA générative en deux vidéos.
+
+
+Graphique des tendances de l'IA générative
+
+
+Dangers et craintes autour de l'IA
+
+Bien que l'intelligence artificielle apporte des avantages considérables, elle soulève aussi de nombreuses questions éthiques et sociétales. L'une des plus grandes craintes est que les machines intelligentes prennent progressivement des décisions autonomes, sans contrôle humain, ce qui pourrait entraîner des erreurs catastrophiques ou des abus de pouvoir.
+
+De plus, l'automatisation croissante dans divers secteurs pourrait causer une augmentation du chômage, car les machines remplacent de plus en plus les travailleurs humains. Cela pourrait creuser les inégalités économiques et créer des tensions sociales importantes.
+
+Enfin, la manipulation des données et l'utilisation malveillante de l'IA, notamment dans la création de deepfakes ou dans la surveillance de masse, suscitent des inquiétudes quant à la protection des libertés individuelles et des droits fondamentaux.
+
+
+
+© Code GTD 2024
