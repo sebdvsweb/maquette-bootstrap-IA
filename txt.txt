@@ -29,14 +29,13 @@ Laissez l'IA stimuler votre créativité et vous accompagner dans la production 
 
 
 Projet 1 - Machine Learning
-Ce projet se concentre sur l'utilisation d'algorithmes d'apprentissage automatique pour traiter des quantités massives de données.
+Ce projet se concentre sur l'utilisation d'algorithmes d'apprentissage automatique pour traiter des quantités massives de données. L'objectif est de créer des modèles capables de détecter des patterns complexes et de prendre des décisions prédictives avec un minimum d'intervention humaine.
 
 Projet 2 - Génération d'images
-Ce projet permet de créer des images uniques à partir de simples descriptions textuelles.
+Utilisant les réseaux neuronaux génératifs adverses (GANs), ce projet permet de créer des images uniques à partir de simples descriptions textuelles. L'IA derrière ce projet a le potentiel de révolutionner la manière dont les contenus graphiques sont créés, tout en réduisant le temps et les coûts de production.
 
 Projet 3 - Science des données
-Ce projet combine les outils de l'intelligence artificielle et de la science des données pour analyser de grandes quantités d'informations.
-
+Ce projet combine les outils de l'intelligence artificielle et de la science des données pour analyser de grandes quantités d'informations. Il aide à découvrir des insights cachés dans les données, permettant des analyses prédictives qui peuvent être utilisées dans des domaines comme la finance, la santé et le marketing.
 
 
 Questions fréquentes
