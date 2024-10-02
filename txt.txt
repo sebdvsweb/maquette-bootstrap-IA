@@ -54,6 +54,7 @@ Elle est utilisée dans divers domaines comme la création de contenu, le design
 L'IA générative en deux vidéos.
 
 
+L'IA et la rentabilité
 Graphique des tendances de l'IA générative
 
 
@@ -68,3 +69,5 @@ Enfin, la manipulation des données et l'utilisation malveillante de l'IA, notam
 
 
 © Code GTD 2024
+
+MIT Technology Review / Wiered / Forbes
